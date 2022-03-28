@@ -4,10 +4,12 @@
     "private": true,
     "version": "0.0.1",
     "dependencies": {
+        "api": "^4.2.1",
         "body-parser": "^1.12.2",
         "connect": "^3.7.0",
         "cors": "^2.8.5",
-        "express": "3.x"
+        "express": "^3.21.2",
+        "hamming": "^0.0.2"
     },
     "main": "Prototype"
 }
